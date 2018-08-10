@@ -1,0 +1,8 @@
+---
+layout: post
+title: "즐거운 에즈넷 세미나"
+date: 2018-08-10 14:51:59 +0900
+categories: jekyll update
+---
+
+다들 집중하고 하품하고 난리났다!!
